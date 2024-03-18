@@ -8,6 +8,9 @@
 *.so
 *.dylib
 
+# Dont push bin folder
+bin/
+
 # Test binary, built with `go test -c`
 *.test
 
